@@ -6,8 +6,6 @@ A beautiful new tab replacement that gives you your very own scratch space to he
 
 It features a prominent spatial visualization for all of your tasks that helps you prioritize what's important, auto-saving notes, rich text formatting and natural language due dates.
 
-![demo](./demo.gif)
-
 ## Table of Contents
 
 <details>
@@ -16,6 +14,8 @@ It features a prominent spatial visualization for all of your tasks that helps y
 - [Tab␣](#tab)
     - [A scratchspace for your new Tab](#a-scratchspace-for-your-new-tab)
   - [Table of Contents](#table-of-contents)
+  - [Screenshot](#screenshot)
+  - [Demo](#demo)
   - [Features](#features)
     - [Building the browser extension locally](#building-the-browser-extension-locally)
     - [Setting up the website as your new tab page](#setting-up-the-website-as-your-new-tab-page)
@@ -23,6 +23,14 @@ It features a prominent spatial visualization for all of your tasks that helps y
   - [License](#license)
 
 </details>
+
+## Screenshot
+
+![screenshot](screenshot.png)
+
+## Demo
+
+![demo](./demo.gif)
 
 ## Features
 
