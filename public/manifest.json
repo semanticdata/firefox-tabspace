@@ -1,11 +1,20 @@
 {
+  "manifest_version": 2,
   "name": "TabSpace",
-  "description": "A scratch space for your new tab page",
+  "description": "A scratch space for your new tab page.",
   "version": "1.2.4",
-  "manifest_version": 3,
-  "chrome_url_overrides": {
-    "newtab": "index.html"
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "newtab-notes@semanticdata",
+      "strict_min_version": "100.0"
+    }
   },
+  "chrome_url_overrides": {
+    "newtab": "public/index.html"
+  },
+  "permissions": [
+    "storage"
+  ],
   "icons": {
     "16": "logo192.png",
     "48": "logo192.png",
