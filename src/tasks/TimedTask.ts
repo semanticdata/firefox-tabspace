@@ -90,7 +90,7 @@ export const TimedTask = Mark.create({
 
   addCommands() {
     return {
-      setDue: () => ({commands}) => {
+      setDue: () => ({ commands }) => {
         commands.setMark(this.name)
         return commands.insertContent("due\u00A0")
       }

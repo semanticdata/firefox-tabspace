@@ -1,5 +1,4 @@
-@use 'sass:math';
-
+@use "sass:math";
 
 @keyframes fadeIn {
   0% {
@@ -46,7 +45,7 @@ span[data-time] {
   white-space: nowrap;
 
   &.highlight {
-    background: var(--secondary) !important;  
+    background: var(--secondary) !important;
     transition: background 0.3s ease;
   }
 
@@ -83,7 +82,6 @@ span[data-time] {
   cursor: pointer;
   transition: opacity 0.3s ease;
   &:hover {
-  opacity: 0.8;
+    opacity: 0.8;
   }
 }
-

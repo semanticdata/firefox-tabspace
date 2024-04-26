@@ -2,7 +2,8 @@
   min-width: 30px;
 }
 
-.settings-item, .settings-item * {
+.settings-item,
+.settings-item * {
   cursor: pointer;
 }
 

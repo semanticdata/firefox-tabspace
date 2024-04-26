@@ -1,38 +1,24 @@
 # Tab␣
 
-### A scratchspace for your new Tab
+> A scratchspace for your new tab.
+
+![Mozilla Add-on](https://img.shields.io/amo/v/addon@tabspace.com)
+![Add-on rating](https://img.shields.io/amo/rating/addon@tabspace.com)
+![Add-on downloads](https://img.shields.io/amo/dw/addon@tabspace.com)
+![Add-on users](https://img.shields.io/amo/users/addon@tabspace.com)
+![License](https://img.shields.io/github/license/semanticdata/firefox-tabspace)
 
 A beautiful new tab replacement that gives you your very own scratch space to help you stay organized and focused.
 
 It features a prominent spatial visualization for all of your tasks that helps you prioritize what's important, auto-saving notes, rich text formatting and natural language due dates.
 
-## Table of Contents
+![firefox extension demo](./demo.gif)
 
-<details>
-<summary>Show/Hide</summary>
+## 🖼 Screenshots
 
-- [Tab␣](#tab)
-    - [A scratchspace for your new Tab](#a-scratchspace-for-your-new-tab)
-  - [Table of Contents](#table-of-contents)
-  - [Screenshot](#screenshot)
-  - [Demo](#demo)
-  - [Features](#features)
-    - [Building the browser extension locally](#building-the-browser-extension-locally)
-    - [Setting up the website as your new tab page](#setting-up-the-website-as-your-new-tab-page)
-  - [Acknowledgements and Attributions](#acknowledgements-and-attributions)
-  - [License](#license)
+![extension screenshot](screenshot.png)
 
-</details>
-
-## Screenshot
-
-![screenshot](screenshot.png)
-
-## Demo
-
-![demo](./demo.gif)
-
-## Features
+## ✨ Features
 
 - Auto-saves to local storage
 - Write in Markdown syntax
@@ -54,10 +40,10 @@ For more information, see the [documentation](https://developer.chrome.com/docs/
 
 Based on your browser, there may be an option to set the new tab page URL directly without installing an extension.
 
-## Acknowledgements and Attributions
+## 💜 Acknowledgements
 
 This extension is a Firefox port of [jackyzha0/tabspace](https://github.com/jackyzha0/tabspace).
 
-## License
+## © License
 
-Source code in this repository is available under the [MIT License](LICENSE). You are free to use this code however you like. That said, some acknowledgement would be well received.
+Source code in this repository is available under the [MIT License](LICENSE).

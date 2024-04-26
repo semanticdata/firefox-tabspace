@@ -27,7 +27,7 @@ function calculateTaskString(numTasks: number, numUrgentTasks: number) {
 
 function Greeting(props: IGreeting) {
   const greeting = calculateGreeting();
-  const calcTime = () => new Date().toLocaleTimeString(undefined, { hour: "numeric", minute: "numeric"});
+  const calcTime = () => new Date().toLocaleTimeString(undefined, { hour: "numeric", minute: "numeric" });
   const [time, setTime] = useState(calcTime());
 
   useEffect(() => {
