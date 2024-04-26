@@ -12,6 +12,8 @@ A beautiful new tab replacement that gives you your very own scratch space to he
 
 It features a prominent spatial visualization for all of your tasks that helps you prioritize what's important, auto-saving notes, rich text formatting and natural language due dates.
 
+[![Get the Addon](https://raw.githubusercontent.com/semanticdata/text-revealer-firefox-extension/master/firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/tabspace/)
+
 ![firefox extension demo](./demo.gif)
 
 ## 🖼 Screenshots
