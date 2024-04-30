@@ -33,7 +33,7 @@
   }
 }
 
-[task-animation="true"] #effects-layer > .effect {
+[task-animation='true'] #effects-layer > .effect {
   position: relative;
   background-color: var(--gray);
   border-radius: 5px;
@@ -50,32 +50,18 @@
 }
 
 /* Typography */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-thead {
+h1, h2, h3, h4, h5, h6, thead {
   color: var(--dark);
   font-weight: revert;
   margin: 2rem 0 0;
   padding: 2rem auto 1rem;
 }
 
-h2,
-h3 {
+h2, h3 {
   margin: 1.5rem 0 0;
 }
 
-p,
-ul,
-text,
-a,
-tr,
-td,
-ol,
-ul {
+p, ul, text, a, tr, td, ol, ul {
   color: var(--gray);
   fill: var(--gray);
   font-weight: revert;
@@ -84,14 +70,12 @@ ul {
   line-height: 1.6rem;
 }
 
-ol,
-ul {
+ol, ul {
   padding-left: 1.5em;
   margin: 0;
 }
 
-ol p,
-ul p {
+ol p, ul p {
   margin: 0.2rem 0;
 }
 
@@ -102,8 +86,7 @@ table {
   border-collapse: collapse;
 }
 
-td,
-th {
+td, th {
   padding: 0.2em 1em;
   border: 1px solid var(--outlinegray);
 }
@@ -116,7 +99,7 @@ img {
 }
 
 sup {
-  line-height: 0;
+  line-height: 0
 }
 
 blockquote {
@@ -168,3 +151,4 @@ hr {
   color: var(--outlinegray);
   background-color: var(--outlinegray);
 }
+
