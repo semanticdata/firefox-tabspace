@@ -24,7 +24,6 @@
   },
   "action": {
     "default_title": "New Tab Notes",
-    "default_popup": "index.html",
     "default_icon": {
       "128": "logo128.png",
       "192": "logo192.png",
