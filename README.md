@@ -1,45 +1,31 @@
 # Tab␣
 
-### A scratchspace for your new Tab
-
-A beautiful new tab replacement that gives you your very own scratch space to help you stay organized and focused.
+A scratchspace for your new tab... *and* your sidebar! Tab Space is a beautiful new tab replacement that gives you your very own scratch space to help you stay organized and focused. It comes with a sidebar companion, customizable shortcut and toolbar button.
 
 It features a prominent spatial visualization for all of your tasks that helps you prioritize what's important, auto-saving notes, rich text formatting and natural language due dates.
 
-## Table of Contents
-
-<details>
-<summary>Show/Hide</summary>
-
-- [Tab␣](#tab)
-    - [A scratchspace for your new Tab](#a-scratchspace-for-your-new-tab)
-  - [Table of Contents](#table-of-contents)
-  - [Screenshot](#screenshot)
-  - [Demo](#demo)
-  - [Features](#features)
-    - [Building the browser extension locally](#building-the-browser-extension-locally)
-    - [Setting up the website as your new tab page](#setting-up-the-website-as-your-new-tab-page)
-  - [Acknowledgements and Attributions](#acknowledgements-and-attributions)
-  - [License](#license)
-
-</details>
-
-## Screenshot
+## 🖼 Screenshot
 
 ![screenshot](screenshot.png)
 
-## Demo
+## 🌟 Demo
 
 ![demo](./demo.gif)
 
-## Features
+## ✨ Features
 
 - Auto-saves to local storage
 - Write in Markdown syntax
 - Uses natural language to recognize and highlight due dates
 - Darkmode
 
-### Building the browser extension locally
+### 🦊 Only Available in Firefox
+
+- Sidebar companion
+- New toolbar button to toggle the sidebar
+- Customizable keyboard shortcut to toggle the sidebar
+
+## 👩‍💻 Development
 
 - Clone the repository
 - Install dependencies `npm i`
@@ -50,14 +36,10 @@ It features a prominent spatial visualization for all of your tasks that helps y
 
 For more information, see the [documentation](https://developer.chrome.com/docs/extensions/mv3/getstarted/[official).
 
-### Setting up the website as your new tab page
-
-Based on your browser, there may be an option to set the new tab page URL directly without installing an extension.
-
-## Acknowledgements and Attributions
+## 💜 Acknowledgements
 
 This extension is a Firefox port of [jackyzha0/tabspace](https://github.com/jackyzha0/tabspace).
 
-## License
+## © License
 
-Source code in this repository is available under the [MIT License](LICENSE). You are free to use this code however you like. That said, some acknowledgement would be well received.
+Source code in this repository is available under the [MIT License](LICENSE).
